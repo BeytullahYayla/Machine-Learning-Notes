@@ -4,8 +4,10 @@
 Thus far supervised machine learning has gained the most traction in use cases across business applications. Studying labeled data, these techniques can extend patterns to unlabeled data.
 
 Supervised learning is used for many business applications from spam filters to movie recommendations. We looked at the two broad categories of supervised machine learning: <br>
-<b>Classification</b>  
-<b>Regression</b>   
+<ul>
+  <li>Classification</li>
+  <li>Regression</li>
+</ul> 
 
 Deep learning can be used within supervised machine learning to create techniques that are better at image recognition or identifying when a movie was created based on the video footage.
 
