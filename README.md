@@ -3,7 +3,7 @@
 ## Supervised Machiene Learning
 Thus far supervised machine learning has gained the most traction in use cases across business applications. Studying labeled data, these techniques can extend patterns to unlabeled data.
 
-Supervised learning is used for many business applications from spam filters to movie recommendations. We looked at the two broad categories of supervised machine learning:
+Supervised learning is used for many business applications from spam filters to movie recommendations. We looked at the two broad categories of supervised machine learning: <br>
 *Classification  
 *Regression  
 
